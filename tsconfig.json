@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "module": "commonjs",
+    "sourceMap": true,
+    "jsx": "react"
+  },
+  "exclude": [
+      "node_modules"
+  ]
+ }
